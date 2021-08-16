@@ -20,7 +20,7 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 ### Summary:
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+There will be a lot of employees being able to retire at anytime now. The mentorship program needs to be in place for them to be prepared. There are enough employees but to be cautious they need to nake sure the employees who are not retiring have the aright amount of training and understadning to take on the retirees roles.
 
 
 
