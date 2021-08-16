@@ -5,7 +5,8 @@
 
 The purpose of this analysis was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. We then wrote a report that summarizes your analysis and helped prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
-![myTest]
+![myTest](https://github.com/nfreeman19/Pewlett-Hackard-Analysis/blob/main/Resources/QuickDBD-export.png)
+
 
 ### Results:
 
