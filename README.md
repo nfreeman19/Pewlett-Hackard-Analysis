@@ -15,7 +15,7 @@ The purpose of this analysis was to determine the number of retiring employees p
 * There would need to be traing soon to fill these higher level postions.
 * The engineering career will be the most needed based on the numbers anbd titles.
 
-![mytest](https://github.com/nfreeman19/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.csv)
+![mytest](https://github.com/nfreeman19/Pewlett-Hackard-Analysis/blob/main/Resources/Titles.png)
 
 
 ### Summary:
